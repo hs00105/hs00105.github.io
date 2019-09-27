@@ -2,7 +2,7 @@
 class Database{
  
     // specify your own database credentials
-    private $host = "10.1.160.83";
+    private $host = "x.x.x.x";
     private $db_name = "zabbix";
     private $username = "rpl_user";
     private $password = "Admin098!";
