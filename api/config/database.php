@@ -5,7 +5,7 @@ class Database{
     private $host = "x.x.x.x";
     private $db_name = "zabbix";
     private $username = "rpl_user";
-    private $password = "Admin098!";
+    private $password = "xxxxx";
     public $conn;
  
     // get the database connection
